@@ -309,6 +309,7 @@
     * [@skyzh, 2020 Spring](https://github.com/skyzh/notes) 英文班
 * 作业
     * [@UNIkeEN, 2023 Spring](https://github.com/UNIkeEN/course-notes/tree/main/CS2310_Modern%20Operating%20Systems) 英文班
+    * [@hitefork, 2023 Spring](https://github.com/hitefork/CS2310) 英文班
   
 <a name="cs3301"></a>
 ### CS3301 (原 CS473) - GPU计算及深度学习
@@ -515,7 +516,7 @@
 
 * Project
     * [@zszheng147 @Junyi42, 2022 Fall](https://github.com/zszheng147/SLU-project-CS4314)
-    * [@byrTony-Frankzyq @xrysamuel @hitefork, 2024 Fall](https://github.com/zszheng147/SLU-project-CS4314)
+    * [@byrTony-Frankzyq @xrysamuel @hitefork, 2024 Fall](https://github.com/hitefork/nlp_2024)
 
 <a name="ice3608"></a>
 ### ICE3608 (原 EE447) - 移动互联网
